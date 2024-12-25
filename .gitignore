@@ -39,7 +39,7 @@ venv.bak/
 .settings/
 
 # Project specific
-data/
+# data/
 *.pkl
 temp_query_image.jpg
 embeddings.pkl
